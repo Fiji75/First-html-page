@@ -2,16 +2,16 @@ body {
     background-color: aquamarine;
 }
 img {height: 350px;
+    ;
 }
 
-li {color: darkmagenta;}
+li {color: black;}
 
 h1 
- {color: darkmagenta;}
-
- h2 {color: green
-     ;}
-
-div{color: crimson};}
+ {color: black;}
 
 h2 {border-color: black;}
+
+h3 {color: black;}
+
+div{color: black;}
